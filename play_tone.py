@@ -18,3 +18,4 @@ def play_d():
   ph.close_hole2()
   ph.close_hole3()
   ph.close_hole5()
+
